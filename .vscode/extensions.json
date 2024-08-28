@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",  // For linting JavaScript and TypeScript
+    "bradlc.vscode-tailwindcss", // For Tailwind CSS IntelliSense
+    "nextsec.vscode-nextjs", // Next.js specific extension
+    "esbenp.prettier-vscode", // Code formatting
+    "nrwl.angular-console", // For Angular and React workspace management (if needed)
+    "reactjs.react-native", // React Native support (if you work with React Native)
+    "dsznajder.es7-react-js-snippets", // ES7 React/Redux/GraphQL/React-Native snippets
+    "ms-vscode.vscode-typescript-next" // TypeScript support
+  ],
+  "unwantedRecommendations": [
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow"
+  ]
+}
